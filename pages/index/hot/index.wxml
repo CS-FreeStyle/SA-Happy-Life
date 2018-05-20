@@ -1,0 +1,90 @@
+<view class="head">
+	<view >
+		<navigator url="redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover">
+			新发布
+		</navigator>
+	</view>	
+	<view>
+		<navigator url="redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover" class="on">
+			二手
+		</navigator>
+	</view>
+	<view>
+		<navigator url="redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover">
+			美食
+		</navigator>
+	</view>
+	<view>
+		<navigator url="redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover">
+			住房
+		</navigator>
+	</view>
+	<view>
+		<navigator url="redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover">
+			出行
+		</navigator>
+	</view>
+  <view>
+    <navigator url='redirect?title=redirect' open-type='redirect'
+hover-class='other-navigator-hover'>
+      Clubs
+    </navigator>
+  </view>
+</view>
+<view class="list">
+	<view class="item">
+		<image src="../../../images/demo1.png"></image>
+		<view class="content">
+			<view class="name">
+				标题 书名
+			</view>
+			<view>作者：十里桃花</view>
+			<view class="big">简介：作者：十里桃花作者：十里桃花作者：十里桃花作者：十里桃花</view>
+			<view class="money">¥100</view>
+		</view>
+	</view>
+	<view class="item">
+		<image src="../../../images/demo1.png"></image>
+		<view class="content">
+			<view class="name">
+				标题 书名
+			</view>
+			<view>作者：十里桃花</view>
+			<view class="big">简介：作者：十里桃花作者：十里桃花作者：十里桃花作者：十里桃花</view>
+			<view class="money">¥100</view>
+		</view>
+	</view>
+	<view class="item">
+		<image src="../../../images/demo1.png"></image>
+		<view class="content">
+			<view class="name">
+				标题 书名
+			</view>
+			<view>作者：十里桃花</view>
+			<view class="big">简介：作者：十里桃花作者：十里桃花作者：十里桃花作者：十里桃花</view>
+			<view class="money">¥100</view>
+		</view>
+	</view>
+	<view class="item">
+		<image src="../../../images/demo1.png"></image>
+		<view class="content">
+			<view class="name">
+				标题 书名
+			</view>
+			<view>作者：十里桃花</view>
+			<view class="big">简介：作者：十里桃花作者：十里桃花作者：十里桃花作者：十里桃花</view>
+			<view class="money">¥100</view>
+		</view>
+	</view>
+	<view class="item">
+		<image src="../../../images/demo1.png"></image>
+		<view class="content">
+			<view class="name">
+				标题 书名
+			</view>
+			<view>作者：十里桃花</view>
+			<view class="big">简介：作者：十里桃花作者：十里桃花作者：十里桃花作者：十里桃花</view>
+			<view class="money">¥100</view>
+		</view>
+	</view>
+</view>
