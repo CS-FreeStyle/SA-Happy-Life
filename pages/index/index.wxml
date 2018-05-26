@@ -27,12 +27,7 @@
 	</view>
   <view>
     <navigator url="redirect?title=redirect"  hover-class="other-navigator-hover">
-      出行
-    </navigator>
-  </view>
-  <view>
-    <navigator url='redirect?title=redirect'  hover-class='other-navigator-hover'>
-      Clubs
+      旅游
     </navigator>
   </view>
 </view>

@@ -49,7 +49,7 @@
       "pagePath": "pages/cart/index",
       "iconPath": "images/footer-icon-04.png",
       "selectedIconPath": "images/footer-icon-04-active.png",
-      "text": "购物车"
+      "text": "消息"
     }, {
       "pagePath": "pages/my/index",
       "iconPath": "images/footer-icon-05.png",

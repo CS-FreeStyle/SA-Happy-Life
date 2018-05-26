@@ -1,6 +1,6 @@
 <view class="head">
 	<view >
-		<navigator url="redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover">
+		<navigator url="index" open-type="redirect" hover-class="other-navigator-hover">
 			新发布
 		</navigator>
 	</view>	
@@ -21,15 +21,9 @@
 	</view>
 	<view>
 		<navigator url="redirect?title=redirect" open-type="redirect" hover-class="other-navigator-hover">
-			出行
+			旅游
 		</navigator>
 	</view>
-  <view>
-    <navigator url='redirect?title=redirect' open-type='redirect'
-hover-class='other-navigator-hover'>
-      Clubs
-    </navigator>
-  </view>
 </view>
 <view class="list">
 	<view class="item">
